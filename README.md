@@ -1,5 +1,5 @@
-# Lab 4 submission
-See pdf in submission folder for results <br />
+#Acoustic Emanation Attacks
+See pdf for results <br />
 The AcousticAttack.py was run with python version 3.9.2 <br />
 Before running, update the following directory locations: <br />
 Update the sys.path.insert directory to point to the location of extractKeyStroke.py if the file is located in another directory. <br />
