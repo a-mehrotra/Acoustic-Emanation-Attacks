@@ -1,4 +1,4 @@
-#Acoustic Emanation Attacks
+# Acoustic Emanation Attacks
 See pdf for results <br />
 The AcousticAttack.py was run with python version 3.9.2 <br />
 Before running, update the following directory locations: <br />
